@@ -1,3 +1,7 @@
+#Prérequis pour installer un Cluster Kubernetes ( OS a vous de choisir) 
+- installer Virtualbox : https://www.virtualbox.org/wiki/Downloads
+- installer Vagrant : https://developer.hashicorp.com/vagrant/install#Windows
+  
 # install kubeadm
 https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/
 
